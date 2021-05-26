@@ -1,6 +1,6 @@
 /* ...
     Uncle Johny
-    by:yashasvi Rawat
+    by:Yashasvi Rawat
     ...*/
 
 #include<iostream>
